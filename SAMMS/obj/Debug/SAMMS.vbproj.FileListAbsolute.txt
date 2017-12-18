@@ -1,0 +1,16 @@
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.vbprojResolveAssemblyReference.cache
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\bin\Debug\SAMMS.exe.config
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\bin\Debug\SAMMS.exe
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\bin\Debug\SAMMS.pdb
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\bin\Debug\SAMMS.xml
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.Resources.resources
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.LoginForm.resources
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.MainForm.resources
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.vbproj.GenerateResource.Cache
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.vbproj.CoreCompileInputs.cache
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.exe
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.xml
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.pdb
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.SplashScreen.resources
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.AddKB.resources
+C:\Users\vinnie\source\repos\SAMMS\SAMMS\obj\Debug\SAMMS.MIDIAdd.resources
